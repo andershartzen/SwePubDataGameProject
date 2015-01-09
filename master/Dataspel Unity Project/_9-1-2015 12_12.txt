@@ -1,0 +1,12 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.111022 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.358633 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.402498 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.402498 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 5.694533 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.694533 sec |
+| Search started - Searchterms: | GameTime: 5.694533 sec |
+| Search Completed, found 200 publications | GameTime: 7.007423 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 7.007423 sec |
+| New Puzzle Opened - Titles: 0= "Systematics of Woodsia" 1= "PEG-PLAmicroparticles for encapsulation and delivery of Tat-EGFP to retinal cells" 2= "Live-cell topology assessment of URG7, MRP6(102) and SP-C using glycosylatable green fluorescent protein in mammalian cells" 3= "Microstructural Investigation of the Initial Oxidation of the FeCrAlRE Alloy Kanthal AF in Dry and Wet O2 at 600 and 800°C"  - Solution = "Microstructural Investigation of the Initial Oxidation of the FeCrAlRE Alloy Kanthal AF in Dry and Wet O2 at 600 and 800°C" - Abstract: "The FeCrAlRE (where RE is reactive element) alloy Kanthal AF was exposed isothermally at 600 and 800°C for 72 h in dry O2 and in O2 with 10 vol % H2O. The mass gains were 3–5 times higher at the higher temperature. The presence of water vapor increased the oxidation rate at 800°C, while no significant effect was observed at 600°C. A thin two-layered oxide formed at 600°C: an outer (Fe,Cr)2O3 corundum-type oxide, containing some Al, and an inner, probably amorphous, Al-rich oxide. At 800°C a two-layered oxide formed in both environments. The inner layer consisted of inward grown a-Al2O3. In dry O2 the originally formed outward grown g-Al2O3 had transformed to a-Al2O3 after 72 h. Water vapor stabilized the outward grown g-Al2O3 and hence no transformation occurred after 72 h in humid environment. RE-rich oxide particles with varying composition (Y, Zr, and Ti) were distributed in the base oxide at both temperatures and in both environments. The RE-rich particles were separated from the alloy substrate by a layer of Al-rich oxide. At 800°C the Y-rich RE particles were surrounded by thick oxide patches in both dry and humid O2." | GameTime: 7.007423 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 37.01838 sec |
+| Game Ended | Total Score: 1 | GameTime: 54.46957 sec |

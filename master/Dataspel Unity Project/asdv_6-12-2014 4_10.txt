@@ -1,0 +1,26 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.546154 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.374273 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.358641 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.358641 sec |
+| Button Clicked: BeginGameButton | GameTime: 3.890293 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 3.890293 sec |
+| Search Completed, found 200 publications | GameTime: 5.67066 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 5.67066 sec |
+| New Puzzle Opened - Titles: 0= "Effects of Feldenkrais Method on Chronic Neck/Scapular Pain in People With Visual Impairment" 1= "A Combination Regimen of Bortezomib, Cyclophosphamide and Betamethasone Gives Quicker, Better and More Durable Response than VAD/CyBet Regimens" 2= "Folkbildningen och det flexibla lärandet" 3= "Ergonomic changes and their consequences in a Swedish meat cutting plant"  - Solution = "Ergonomic changes and their consequences in a Swedish meat cutting plant" - Abstract: "Rotation schemes reducing daily working time with knife to 6 hours were planned and implemented at a meat cutting plant in a participatory process. These changes were evaluated concerning results, the change process and consequences on organizational performance. A questionnaire to the meat cutters and interviews with the production leaders were conducted. The results support that the meat cutters experienced the changes positively and that a reduction in physical and mental fatigue was reached. Other experiences were mixed indicating that both work organizational characteristics and local history should be taken more into consideration. The organizational performance was not particularly affected." | GameTime: 5.67066 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 39.01407 sec |
+| Button Clicked: NextPuzzleButton | GameTime: 42.94265 sec |
+| State Change FROM PUZZLE_COMPLETED TO GAMEPLAY | GameTime: 42.94265 sec |
+| New Puzzle Opened - Titles: 0= "Climate Change Education Research" 1= "A framework for guiding policy makers intervening in emerging innovation systems in 'catching up' countries" 2= "Assessment of carotid calcifications on panoramic radiographs in relation to other used methods and relationship to periodontitis and stroke" 3= "Prerequisites for persistence  in distance education"  - Solution = "Climate Change Education Research" - Abstract: "Situate climate change education research in the context of research traditions, approaches and methods that are common to the social sciences, education being part thereof. The article argues for methodological innovation and expansion of existing forms of research.  It advocates a research programme that will expand climate change paradigms and create opportunities for discussion, debate and continuous learning." | GameTime: 42.94265 sec |
+| Button Clicked: Answer1Button | GameTime: 47.32374 sec |
+| Player submitted answer: "Climate Change Education Research" was CORRECT | GameTime: 47.32374 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 47.32374 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 50.7427 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 50.7427 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 52.0319 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 52.0319 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 52.87593 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 52.87593 sec |
+| Button Clicked: AbstractButton1 | GameTime: 53.86798 sec |
+| Button Clicked: ExitButton | GameTime: 61.38852 sec |
+| State Change FROM COLLECTEDPUBLICATIONS TO MENU | GameTime: 61.38852 sec |
+| Game Ended | Total Score: 1596 | GameTime: 62.98424 sec |

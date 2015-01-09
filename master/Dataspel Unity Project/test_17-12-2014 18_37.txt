@@ -1,0 +1,6 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 4.268583 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 5.256213 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 6.146399 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 6.146399 sec |
+| Button Clicked: AddSearch_Button | GameTime: 11.06545 sec |
+| Game Ended | Total Score: 1 | GameTime: 15.42161 sec |

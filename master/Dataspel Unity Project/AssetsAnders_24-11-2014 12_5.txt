@@ -1,0 +1,10 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 4.546288 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 43.14388 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 44.08384 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 44.08384 sec |
+| Button Clicked: BeginGameButton | GameTime: 45.14059 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 45.14059 sec |
+| Search Completed, found 200 publications | GameTime: 46.00909 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 46.00909 sec |
+| New Puzzle Opened - Titles: 0= "Public interest in the private sphere: how far into the home can local policy making reach?" 1= "Reduced sulfur compound oxidation by Thiobacillus caldus." 2= "Modified Gradient Search for Level Set Based Image Segmentation" 3= "Do technology strategies matter? A comparison of two electrical engineering corporations, 1988-1998"  - Solution = "Do technology strategies matter? A comparison of two electrical engineering corporations, 1988-1998" - Abstract: "In order to reap competitive advantage from innovation, a firms technology activities should square with its technology strategy - but how do technology strategies relate to activities and financial performance in relevant business areas? This paper investigates this question by means of a comparison between two leading firms in the electrical engineering industry: ABB and General Electric. We show that substantial performance differences between these companies in the power generation field are related to differences in their espoused technology strategies (as indicated by statements in annual reports) and technology activities (as indicated by patenting) and the degree of alignment between these." | GameTime: 46.00909 sec |
+| Game Ended | Total Score: 1 | GameTime: 51.06211 sec |

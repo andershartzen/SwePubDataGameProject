@@ -1,0 +1,11 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.779002 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.777681 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 6.522196 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 6.522196 sec |
+| Button Clicked: BeginGameButton | GameTime: 7.383101 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 7.383101 sec |
+| Search Completed, found 200 publications | GameTime: 8.636827 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 8.636827 sec |
+| New Puzzle Opened - Titles: 0= "Microcirculation assessment using an individualized model for diffuse reflectance spectroscopy and conventional laser Doppler flowmetry" 1= "Estimation of Trabecular Thickness in Gray-Scale Images Through Granulometric Analysis" 2= "El reconocimiento del aprendizaje anterior como una técnica de gobierno" 3= "AIST - Ett test av lyssningsansträngning"  - Solution = "El reconocimiento del aprendizaje anterior como una técnica de gobierno" - Abstract: "Los Gedge viven en un pueblecito idílico, y en una mansión no me­nos maravillosa. Lo que no saben es que dos ladrones de guante muy blanco codician sus diamantes. La señora Gedge, por su parte, ambi­ciona para su marido la embajada de los Estados Unidos en Francia, y para conseguirla está dispuesta a utilizar incluso el chantaje. Y su pre­sunta víctima es el influyente senador Opal, padre de Jane, una ena­moradiza jovencita... Y con estos ingredientes y algunos más típicos del irresistible humor de Wodehouse como por ejemplo uno de los muy ingleses ladrones de guante blanco, disfrazado de impecable aris­tócrata francés, el lector ya tiene la diversión asegurada. «Sin ningún género de dudas es una de las novelas más desopilantes de su autor» (Daily Telegraph)." | GameTime: 8.636827 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 50.63841 sec |
+| Game Ended | Total Score: 1 | GameTime: 54.90992 sec |

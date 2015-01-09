@@ -1,0 +1,5 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.908883 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.869299 sec |
+| Button Clicked: MainMenu_Options Button | GameTime: 5.596291 sec |
+| State Change FROM MENU TO OPTIONSMENU | GameTime: 5.596291 sec |
+| Game Ended | Total Score: 1 | GameTime: 32.04228 sec |

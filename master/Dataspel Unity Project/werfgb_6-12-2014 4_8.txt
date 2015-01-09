@@ -1,0 +1,20 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.958842 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.953032 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.499786 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.499786 sec |
+| Button Clicked: BeginGameButton | GameTime: 4.096303 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 4.096303 sec |
+| Search Completed, found 200 publications | GameTime: 9.087507 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 9.087507 sec |
+| New Puzzle Opened - Titles: 0= "Influence of ear canal occlusion and static pressure difference on bone conduction thresholds: Implications for mechanisms of bone conduction" 1= "Miljömanagement" 2= "Digital Divide and its Variations amongst OECD, NIE and ASEAN Countries" 3= "Ordinary and extraordinary dielectric functions of 4H- and 6H-SiC from 3.5 to 9.0 eV"  - Solution = "Influence of ear canal occlusion and static pressure difference on bone conduction thresholds: Implications for mechanisms of bone conduction" - Abstract: "The effect of air pressure change on bone conduction (BC) hearing thresholds in the occluded ear was investigated. The pump manometer system of an impedance bridge was used to change the air pressure in the ear canal of twenty-two normally hearing subjects. BC thresholds were measured with: (1) open ear; (2) the ear canal occluded with a probe tube and application of 0 daPa air pressure; and (3) the ear canal occluded with a probe tube and application of -350 daPa air pressure. Thresholds were lower in condition 2 than in condition 1, the difference decreasing from 27 dB at 2500 Hz to 4.5 dB at 2000 Hz. Thresholds were higher in condition 3 than in condition 2. The results are interpreted in terms of changes in the relative contribution of the three routes of transmission for BC sound produced by occlusion and by a static pressure difference." | GameTime: 9.087507 sec |
+| Button Clicked: Answer1Button | GameTime: 15.98708 sec |
+| Player submitted answer: "Influence of ear canal occlusion and static pressure difference on bone conduction thresholds: Implications for mechanisms of bone conduction" was CORRECT | GameTime: 15.98708 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 15.98708 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 19.80556 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 19.80556 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 20.65712 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 20.65712 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 21.76653 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 21.76653 sec |
+| Button Clicked: AbstractButton1 | GameTime: 23.15808 sec |
+| Game Ended | Total Score: 4344 | GameTime: 27.3256 sec |

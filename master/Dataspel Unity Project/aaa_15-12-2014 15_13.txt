@@ -1,0 +1,13 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 3.027457 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 4.027512 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.699342 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.699342 sec |
+| Button Clicked: BeginGameButton | GameTime: 5.355631 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.355631 sec |
+| Search started - Searchterms: | GameTime: 5.355631 sec |
+| Search Completed, found 0 publications | GameTime: 5.761981 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 5.761981 sec |
+| Button Clicked: Button | GameTime: 6.793111 sec |
+| Button Clicked: CancelSearchButton | GameTime: 7.793118 sec |
+| State Change FROM PLAYERCONFIG TO PLAYERCONFIG | GameTime: 7.793118 sec |
+| Game Ended | Total Score: 1 | GameTime: 10.7198 sec |

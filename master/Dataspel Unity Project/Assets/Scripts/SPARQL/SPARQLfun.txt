@@ -1,0 +1,30 @@
+PREFIX sweDat: <http://swepub.kb.se/SwePubAnalysis/model#>
+SELECT DISTINCT ?article ?abstractTxt ?titleTxt ?pubUNI ?authorUNI ?authorNameGiven ?authorNameFamily
+WHERE
+{
+?article a mods_m:Mods .
+?article mods_m:hasName ?author .
+?article mods_m:hasAbstract ?abstract .
+?abstract mods_m:abstractValue ?abstractTxt .
+?article mods_m:hasTitleInfo ?titleInfo .
+?titleInfo mods_m:hasTitle ?title .
+?title mods_m:titleValue ?titleTxt .
+?article mods_m:recordContentSourceValue ?pubUNI .
+?article sweDat:authorCount ?authorCount .
+FILTER(?authorCount > 0 ) .
+?author mods_m:hasAffiliation ?affiliation .
+?affiliation mods_m:affiliationValue ?authorUNI .
+ 
+?author mods_m:hasNamePart ?authorNamePartOne .
+?author mods_m:hasNamePart ?authorNamePartTwo .
+
+?authorNamePartOne mods_m:type ?namePartTypeOne .
+?namePartTypeOne bif:contains 'given' . 
+
+?authorNamePartOne mods_m:namePartValue ?authorNameGiven .
+?authorNamePartTwo mods_m:type ?namePartTypeTwo .
+?namePartTypeTwo bif:contains 'family' .
+?authorNamePartTwo mods_m:namePartValue ?authorNameFamily .
+
+}
+LIMIT 100

@@ -1,0 +1,17 @@
+PREFIX sweDat: <http://swepub.kb.se/SwePubAnalysis/model#>
+SELECT ?authorNameGiven ?authorNameFamily ?UNI
+WHERE
+{
+?author a mods_m:Name .
+?author mods_m:hasAffiliation ?affiliation .
+?affiliation mods_m:affiliationValue ?UNI . 
+?UNI bif:contains 'UNIVERSITY' .
+?author mods_m:hasNamePart ?authorNamePartOne .
+?author mods_m:hasNamePart ?authorNamePartTwo .
+?authorNamePartOne mods_m:type ?namePartTypeOne .
+?namePartTypeOne bif:contains 'given' . 
+?authorNamePartOne mods_m:namePartValue ?authorNameGiven .
+?authorNamePartTwo mods_m:type ?namePartTypeTwo .
+?namePartTypeTwo bif:contains 'family' .
+?authorNamePartTwo mods_m:namePartValue ?authorNameFamily .
+}

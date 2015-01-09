@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{7C41A781-8AF3-FD03-D54F-D5FAC98D9A1D}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_OSX;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_GAMECENTER;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Game\CollectedPublications.js" />
+     <None Include="Assets\Resources\Data\AuthorLists\sh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\oru.txt" />
+     <None Include="Assets\Resources\Data\SweUniList.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\shh.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryNoSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\ltu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kth.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryNoSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\umu.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryAuthorSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hv.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\Linge.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hb.txt" />
+     <None Include="Assets\Data\SweUniList.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryAuthorSearch.txt" />
+     <None Include="Assets\Scripts\SPARQL\SPARQLfun.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\gih.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\gu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kau.txt" />
+     <None Include="Assets\Resources\SPARQL\AuthorBasedOnUni.txt" />
+     <None Include="Assets\Scripts\SPARQL\AuthorBasedOnUni.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\su.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\his.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\esh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\rkh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\miun.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\cth.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryUniSearchAuthorSearch.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryUniSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\lu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\konstfack.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\lnu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\ki.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\liu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\uu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\slu.txt" />
+     <None Include="Assets\Scripts\SPARQL\AllAuthorsQuery.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\mdh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hj.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\bth.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\nai.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\mah.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\fhs.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hkr.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryUniSearchAuthorSearch.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryUniSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kmh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\du.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hig.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

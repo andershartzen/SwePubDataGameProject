@@ -1,0 +1,20 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 6.325276 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 7.700276 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 8.682002 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 8.682002 sec |
+| Button Clicked: BeginGameButton | GameTime: 9.322632 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 9.322632 sec |
+| Search Completed, found 200 publications | GameTime: 11.18797 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 11.18797 sec |
+| New Puzzle Opened - Titles: 0= "'Safety Crime' in Neoliberal Post-communist Society" 1= "Paradoxes of assessing prior learning" 2= "Design Considerations for Dimensional Inference and Unit Consistency Checking in Modelica" 3= "Ionization energies of phosphorus and nitrogen donors and aluminum acceptors in 4H silicon carbide from the donor-acceptor pair emission"  - Solution = "Design Considerations for Dimensional Inference and Unit Consistency Checking in Modelica" - Abstract: "The Modelica language supports syntax for declaring physical units of variables, but it does not yet exist any defined semantics for how dimensional and unit consistency checking should be carried out. In this paper we explore different approaches and new constructs for improved dimensional inference and unit consistency checking in Modelica; both from an end-user, library, and tool perspective. A proposal for how dimensional inference and unit checking can be carried out is outlined and a prototype implementation is developed and verified using several examples from the Modelica standard library." | GameTime: 11.18797 sec |
+| Button Clicked: Answer3Button | GameTime: 16.16729 sec |
+| Player submitted answer: "Design Considerations for Dimensional Inference and Unit Consistency Checking in Modelica" was CORRECT | GameTime: 16.16729 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 16.16729 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 18.38595 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 18.38595 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 19.46414 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 19.46414 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 20.66731 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 20.66731 sec |
+| Button Clicked: AbstractButton1 | GameTime: 21.59545 sec |
+| Game Ended | Total Score: 2603 | GameTime: 25.49541 sec |

@@ -1,0 +1,11 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 7.855114 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 8.902067 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 9.558268 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 9.558268 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 15.12401 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 15.12401 sec |
+| Search started - Searchterms: freeText = togelius | GameTime: 15.12401 sec |
+| Search Completed, found 12 publications | GameTime: 16.23333 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 16.23333 sec |
+| New Puzzle Opened - Titles: 0= "The turing test track of the 2012 Mario AI Championship" 1= "Patterns as Objectives for Level Generation" 2= "Generating Interesting Monopoly Boards from Open Data" 3= "Linear Levels Through n-grams"  - Solution = "Linear Levels Through n-grams" - Abstract: "We shown that novel, linear game levels can be created using n- grams that have been trained on a corpus of existing levels. The method is fast and simple, and produces levels that are recognisably in the same style as those in the corpus that it has been trained on. We use Super Mario Bros. as an example domain, and use a selection of the levels from the original game as a training corpus. We treat Mario levels as a left-to-right sequence of vertical level slices, allowing us to perform level generation in a setting with some formal similarities to n-gram-based text generation and music generation. In empirical results, we investigate the effects of corpus size and n (sequence length). While the applicability of the method might seem limited to the relatively narrow domain of 2D games, we argue that many games in effect have linear levels and n-grams could be used to good effect, given that a suitable alphabet can be found." | GameTime: 16.23333 sec |
+| Game Ended | Total Score: 1 | GameTime: 23.45213 sec |

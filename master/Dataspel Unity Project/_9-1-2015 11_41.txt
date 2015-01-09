@@ -1,0 +1,26 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.977594 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.556368 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.539648 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.539648 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 5.800259 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.800259 sec |
+| Search started - Searchterms: | GameTime: 5.800259 sec |
+| Search Completed, found 200 publications | GameTime: 6.840593 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 6.840593 sec |
+| New Puzzle Opened - Titles: 0= "D-dimer predicts major bleeding, cardiovascular events and all-cause mortality during warfarin treatment" 1= "Low Temperature CVD of Thin, Amorphous Boron-Carbon Films for Neutron Detectors" 2= "On the Typical Structure of Graphs in a Monotone Property" 3= "Numerical model for fully coupled THM processes with multiphase flow and code validation"  - Solution = "Low Temperature CVD of Thin, Amorphous Boron-Carbon Films for Neutron Detectors" - Abstract: "Thin, amorphous boron-carbon films are deposited at low temperature (400600?degrees C) by thermally activated CVD using the organoborane triethylboron (TEB) as a single precursor. Two different carrier gases are tested. At 600?degrees C, using argon as the carrier gas, the deposition rate is close to 1?mu m h-1. The film has a density of 2.14?g?cm-3 with a B/C ratio of 3.7. When hydrogen is used as the carrier gas, the film density is 2.42?g?cm-3, the B/C ratio 4.6, and the deposition rate 0.35?mu m h-1. The hydrogen content in the films is about 34 at.-%, regardless of ambient conditions during deposition, and varies only with the deposition temperature. In addition, both the film composition and the film density are found to vary significantly with the deposition temperature and the atmospheric conditions. Based upon these results, a deposition mechanism for the growth of boron-carbon films from TEB, where the TEB molecule is decomposed to BH3 and hydrocarbons, is suggested." | GameTime: 6.840593 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 8.79132 sec |
+| State Change FROM GAMEPLAY TO PLAYERCONFIG | GameTime: 8.79132 sec |
+| Button Clicked: Button_ExitSuperSimplePuzzleSetup | GameTime: 10.82316 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 10.82316 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 12.16856 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 12.16856 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 13.44446 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 13.44446 sec |
+| Search started - Searchterms: | GameTime: 13.44446 sec |
+| Search Completed, found 200 publications | GameTime: 14.62719 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 14.62719 sec |
+| New Puzzle Opened - Titles: 0= "Employee “voice” and working environment in post-communist New Member States" 1= "Seamlessly Integrating Software &amp; Hardware Modelling for Large-Scale Systems" 2= "Mothers with intellectual disability, their experiences of maltreatment, and their children's attachment representations" 3= "Ionization energies of phosphorus and nitrogen donors and aluminum acceptors in 4H silicon carbide from the donor-acceptor pair emission"  - Solution = "Ionization energies of phosphorus and nitrogen donors and aluminum acceptors in 4H silicon carbide from the donor-acceptor pair emission" - Abstract: "This paper deals with fitting the donor-acceptor pair luminescence due to P-Al pairs in 4H-SiC. It was possible to identify P at the Si cubic site as the shallower donor with ionization energy of 60.7meV, as well as to distinguish the contribution in the spectrum from pairs involving this donor and Al acceptors from both the cubic and hexagonal lattice sites, leading to justification of their ionization energies. The case of N-Al pair luminescence was revisited and the ionization energy of the deeper Nc donor at the cubic site was determined, 125.5meV. © 2005 The American Physical Society." | GameTime: 14.62719 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 44.63589 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 47.16797 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 47.16797 sec |
+| Game Ended | Total Score: 1 | GameTime: 49.5414 sec |

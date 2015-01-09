@@ -1,0 +1,12 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.009142 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.056006 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.696649 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.696649 sec |
+| Button Clicked: AddSearch_Button | GameTime: 5.83732 sec |
+| Button Clicked: BeginGameButton | GameTime: 7.134211 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 7.134211 sec |
+| Search started - Searchterms: freeText = phenomeno | GameTime: 7.134211 sec |
+| Search Completed, found 1 publications | GameTime: 10.17451 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 10.17451 sec |
+| New Puzzle Opened - Titles: 0= "Phenomeno-semantic complexity"  - Solution = "Phenomeno-semantic complexity" - Abstract: "This paper proposes a novel notion of complexity, derived from the process of semantic and syntactical transformation of message as communicated between sense-making actors. it distinguishes between complexity driven by syntactical transformation and that driven by semantic transformation. This last is also divided into first- and second-order transformation, the former relating to the observing system and the latter to the observed system of an inquiry. The proposed notion of complexity is juxtaposed with the mainstream notion of complex systems, typically understood as the interaction of adaptive agents governed by local rules, yet giving rise to novel unpredictable global behavior. The proposed notion of phenomenological semantic complexity is illustrated with some examples taken from real-life human affairs. The proposed and conventional notions of complexity are regarded as complementary, yet they require different research strategies; some suggestions for further research are therefore put forward here" | GameTime: 10.17451 sec |
+| Game Ended | Total Score: 1 | GameTime: 12.6953 sec |

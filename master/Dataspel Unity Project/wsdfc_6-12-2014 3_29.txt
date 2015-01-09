@@ -1,0 +1,30 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.696696 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.6498 sec |
+| Button Clicked: MainMenu_Options Button | GameTime: 4.618554 sec |
+| State Change FROM MENU TO OPTIONSMENU | GameTime: 4.618554 sec |
+| Button Clicked: Button_ExitOptions | GameTime: 9.212332 sec |
+| State Change FROM OPTIONSMENU TO MENU | GameTime: 9.212332 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 10.05607 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 10.05607 sec |
+| Button Clicked: BeginGameButton | GameTime: 12.10298 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 12.10298 sec |
+| Button Clicked: CancelSearchButton | GameTime: 17.36052 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 17.36052 sec |
+| Button Clicked: BeginGameButton | GameTime: 18.14175 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 18.14175 sec |
+| Search Completed, found 200 publications | GameTime: 19.84491 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 19.84491 sec |
+| New Puzzle Opened - Titles: 0= "Functional characterization of a tyrosinase gene from the oomycete Saprolegnia parasitica by RNAi silencing" 1= "High-resolution ice thickness and bed topography of a land-terminating section of the Greenland Ice Sheet" 2= "Expression of vascular endothelial growth factor and its receptors in the rat ventral prostate and Dunning R3327 PAP adenocarcinoma before and after castration." 3= "Thickness dependence of dynamic and static magnetic properties of pulsed laser deposited La0.7Sr0.3MnO3 films on SrTiO3(001)"  - Solution = "Functional characterization of a tyrosinase gene from the oomycete Saprolegnia parasitica by RNAi silencing" - Abstract: "Here we describe the first application of transient gene silencing in Saprolegnia parasitica, a pathogenic oomycete that infects a wide range of fish, amphibians, and crustaceans. A gene encoding a putative tyrosinase from S. parasitica, SpTyr, was selected to investigate the suitability of RNA-interference (RNAi) to functionally characterize genes of this economically important pathogen. Tyrosinase is a mono-oxygenase enzyme that catalyses the O-hydroxylation of monophenols and subsequent oxidation of O-diphenols to quinines. These enzymes are widely distributed in nature, and are involved in the melanin biosynthesis. Gene silencing was obtained by delivering in vitro synthesized SpTyr dsRNA into protoplasts. Expression analysis, tyrosinase activity measurements, and melanin content analysis confirmed silencing in individual lines. Silencing of SpTyr resulted in a decrease of tyrosinase activity between 38 % and 60 %, dependent on the level of SpTyr-expression achieved. The SpTyr-silenced lines displayed less pigmentation in developing sporangia and occasionally an altered morphology. Moreover, developing sporangia from individual silenced lines possessed a less electron dense cell wall when compared to control lines, treated with GFP-dsRNA. In conclusion, the tyrosinase gene of S. parasitica is required for melanin formation and transient gene silencing can be used to functionally characterize gene S in S. parasitica." | GameTime: 19.84491 sec |
+| Button Clicked: Answer1Button | GameTime: 50.5558 sec |
+| Player submitted answer: "Functional characterization of a tyrosinase gene from the oomycete Saprolegnia parasitica by RNAi silencing" was CORRECT | GameTime: 50.5558 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 50.5558 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 54.11868 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 54.11868 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 55.24382 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 55.24382 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 56.13771 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 56.13771 sec |
+| Button Clicked: AbstractButton1 | GameTime: 57.41519 sec |
+| Button Clicked: ButtonSavePubs | GameTime: 64.0209 sec |
+| Button Clicked: ExitButton | GameTime: 108.8447 sec |
+| Game Ended | Total Score: 3696 | GameTime: 109.9798 sec |

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{E8FC6D9C-81C9-E37C-39FA-59E6D47ECBCF}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Data\Article.cs" />
+     <Compile Include="Assets\Scripts\Data\Author.cs" />
+     <Compile Include="Assets\Scripts\Data\AuthorManager.cs" />
+     <Compile Include="Assets\Scripts\Data\Creator.cs" />
+     <Compile Include="Assets\Scripts\Data\Publication.cs" />
+     <Compile Include="Assets\Scripts\Data\University.cs" />
+     <Compile Include="Assets\Scripts\Data\UniversityManager.cs" />
+     <Compile Include="Assets\Scripts\DataGetter\SwePubGetter.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataRetievalManager.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataRetriever.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataRetrieverFile.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataRetrieverOfflineTesting.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataRetrieverSwePub.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\DataSourceManager.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\Request.cs" />
+     <Compile Include="Assets\Scripts\DataRetrieval\SwePubQuerySink.cs" />
+     <Compile Include="Assets\Scripts\DllTester.cs" />
+     <Compile Include="Assets\Scripts\Game\AbstractPuzzle.cs" />
+     <Compile Include="Assets\Scripts\Game\CollectedPublications.cs" />
+     <Compile Include="Assets\Scripts\Game\DropStract.cs" />
+     <Compile Include="Assets\Scripts\Game\DropstractOptions.cs" />
+     <Compile Include="Assets\Scripts\Game\EndingManager.cs" />
+     <Compile Include="Assets\Scripts\Game\HighScore.cs" />
+     <Compile Include="Assets\Scripts\Game\HighScoreScreen.cs" />
+     <Compile Include="Assets\Scripts\Game\PlayerIntro.cs" />
+     <Compile Include="Assets\Scripts\Game\Puzzle.cs" />
+     <Compile Include="Assets\Scripts\Game\PuzzleFactory.cs" />
+     <Compile Include="Assets\Scripts\Game\SaveCollectedPublications.cs" />
+     <Compile Include="Assets\Scripts\Game\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\Game\ShipManager.cs" />
+     <Compile Include="Assets\Scripts\Game\SoundManager.cs" />
+     <Compile Include="Assets\Scripts\Game\StartPlayerNameEntry.cs" />
+     <Compile Include="Assets\Scripts\Game\TextDisplayer.cs" />
+     <Compile Include="Assets\Scripts\Game\TopicSelector.cs" />
+     <Compile Include="Assets\Scripts\Game\UniSelectScreen.cs" />
+     <Compile Include="Assets\Scripts\Language\Language.cs" />
+     <Compile Include="Assets\Scripts\Language\LanguageManager.cs" />
+     <Compile Include="Assets\Scripts\SPARQL\SPARQLQuery.cs" />
+     <Compile Include="Assets\Scripts\SPARQL\SPARQLQueryFactory.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_Combination.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_Creator.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_CreatorName.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_CreatorUni.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_FreeText.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_Publication.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_PublicationTitle.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_PublicationTopic.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_PublicationType.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_PublicationUniversity.cs" />
+     <Compile Include="Assets\Scripts\SearchTerm\SearchTerm_PublicationYear.cs" />
+     <Compile Include="Assets\Scripts\SearchTermTester.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Constants.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Euler.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\GraphMatch.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\GraphVizWriter.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Inference.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Interfaces.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\LiteralFilters.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\MemoryStore.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\N3Reader.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\N3Writer.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\NTriplesWriter.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\NamespaceManager.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Query.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\RDFS.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\RdfReader.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\RdfWriter.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\RdfXmlReader.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\RdfXmlWriter.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Resource.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\SparqlClient.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\SpecialRelations.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Statement.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Store.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\TurtleWriter.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\UriMap.cs" />
+     <Compile Include="Assets\Scripts\SemWeb\Util.cs" />
+     <Compile Include="Assets\Scripts\Util\ComboBox.cs" />
+     <Compile Include="Assets\Scripts\Util\ErrorMessage.cs" />
+     <Compile Include="Assets\Scripts\Util\GUIManager.cs" />
+     <Compile Include="Assets\Scripts\Util\LoadingJob.cs" />
+     <Compile Include="Assets\Scripts\Util\LogKeeper.cs" />
+     <Compile Include="Assets\Scripts\Util\Popup.cs" />
+     <Compile Include="Assets\Scripts\Util\ResolutionManager.cs" />
+     <Compile Include="Assets\Scripts\Util\TexTFileReader.cs" />
+     <Compile Include="Assets\Scripts\Util\TextAssetManager.cs" />
+     <Compile Include="Assets\Scripts\Util\ThreadedJob.cs" />
+     <Compile Include="Assets\Scripts\Util\TimeAndProgressManager.cs" />
+     <None Include="Assets\Resources\Data\AuthorLists\sh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\oru.txt" />
+     <None Include="Assets\Resources\Data\SweUniList.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\shh.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryNoSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\ltu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kth.txt" />
+     <None Include="Assets\GameLog\asdfgh_24-11-2014 11_38.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryNoSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\umu.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryAuthorSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hv.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\Linge.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hb.txt" />
+     <None Include="Assets\Data\SweUniList.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryAuthorSearch.txt" />
+     <None Include="Assets\Scripts\SPARQL\SPARQLfun.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\gih.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\gu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kau.txt" />
+     <None Include="Assets\Resources\SPARQL\AuthorBasedOnUni.txt" />
+     <None Include="Assets\GameLog\Anders_24-11-2014 6_47.txt" />
+     <None Include="Assets\Scripts\SPARQL\AuthorBasedOnUni.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\su.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\his.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\esh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\rkh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\miun.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\cth.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryUniSearchAuthorSearch.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryUniSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\lu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\konstfack.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\lnu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\ki.txt" />
+     <None Include="Assets\GameLog\asdfghj_24-11-2014 6_45.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\liu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\uu.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\slu.txt" />
+     <None Include="Assets\Scripts\SPARQL\AllAuthorsQuery.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\mdh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hj.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\bth.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\nai.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\mah.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\fhs.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hkr.txt" />
+     <None Include="Assets\Scripts\SPARQL\QueryUniSearchAuthorSearch.txt" />
+     <None Include="Assets\Resources\SPARQL\QueryUniSearch.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\kmh.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\du.txt" />
+     <None Include="Assets\Resources\Data\AuthorLists\hig.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

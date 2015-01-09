@@ -1,0 +1,20 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 3.123003 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 4.019679 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.984549 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.984549 sec |
+| Button Clicked: BeginGameButton | GameTime: 5.876274 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.876274 sec |
+| Search Completed, found 200 publications | GameTime: 7.983228 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 7.983228 sec |
+| New Puzzle Opened - Titles: 0= "A Generalized View on Parsing and Translation" 1= "Åke Hodell och dokumentkonstens minnespraktiker" 2= "Nitrogen doping of epitaxial Silicon Carbide" 3= "Expression of vascular endothelial growth factor and its receptors in the rat ventral prostate and Dunning R3327 PAP adenocarcinoma before and after castration."  - Solution = "Åke Hodell och dokumentkonstens minnespraktiker" - Abstract: "Vad är minnet, med vilka modeller kan vi göra det fattbart, och vilka är möjligheterna att med minnet återskapa det som glömts bort eller på annat sätt gått förlorat? Frågan om minnet och det att minnas har sedan urminnes tider intresserat poeter, filosofer och forskare, och att ämnet bibehållit sin popularitet är egentligen inte så konstigt. Minnets mysterier rör helt enkelt vid flera av de mest grundläggande aspekterna av det mänskliga varat - ett faktum som författare i alla tider varit väl medvetna om. I denna volym - resultatet av ett symposium i Lund den 26 april 2013 - finner vi fyra artiklar som på var sitt sätt försöker belysa minnets och litteraturens beröringspunkter. Författarna tar ett brett grepp om frågan och rör sig från Västerlandets arketypiska minnesfunktioner till romantikens särskilda sätt att tänka om det förflutna; från Sigmund Freuds metaforer till konkretisten Åke Hodells arkiv i Stockholm. Texterna visar också på den teoretiska bredden i det litteraturvetenskapliga studier av minnet, och kan härigenom tjäna som en koncis introduktion till fältet." | GameTime: 7.983228 sec |
+| Button Clicked: Answer2Button | GameTime: 11.96503 sec |
+| Player submitted answer: "Åke Hodell och dokumentkonstens minnespraktiker" was CORRECT | GameTime: 11.96503 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 11.96503 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 15.13043 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 15.13043 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 23.39788 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 23.39788 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 25.55189 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 25.55189 sec |
+| Button Clicked: AbstractButton1 | GameTime: 27.20816 sec |
+| Game Ended | Total Score: 5402 | GameTime: 54.53024 sec |

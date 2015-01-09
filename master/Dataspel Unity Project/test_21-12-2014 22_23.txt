@@ -1,0 +1,3 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.583718 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.50572 sec |
+| Game Ended | Total Score: 1 | GameTime: 4.43265 sec |

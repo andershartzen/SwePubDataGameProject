@@ -1,0 +1,7 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.382219 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.257243 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 2.960398 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 2.960398 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 4.585336 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 4.585336 sec |
+| Game Ended | Total Score: 1 | GameTime: 7.475972 sec |

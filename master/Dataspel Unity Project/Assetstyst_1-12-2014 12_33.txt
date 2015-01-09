@@ -1,0 +1,26 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 4.161315 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 5.676858 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 7.895675 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 7.895675 sec |
+| Button Clicked: AddSearch_Button | GameTime: 12.70344 sec |
+| Button Clicked: AddSearch_Button | GameTime: 21.14632 sec |
+| Button Clicked: BeginGameButton | GameTime: 22.25568 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 22.25568 sec |
+| Button Clicked: CancelSearchButton | GameTime: 32.58627 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 32.58627 sec |
+| Button Clicked: AddSearch_Button | GameTime: 34.75822 sec |
+| Button Clicked: BeginGameButton | GameTime: 35.52389 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 35.52389 sec |
+| Button Clicked: CancelSearchButton | GameTime: 46.96352 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 46.96352 sec |
+| Button Clicked: AddSearch_Button | GameTime: 52.43383 sec |
+| Button Clicked: BeginGameButton | GameTime: 53.01199 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 53.01199 sec |
+| Button Clicked: CancelSearchButton | GameTime: 62.88026 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 62.88026 sec |
+| Button Clicked: AddSearch_Button | GameTime: 67.85842 sec |
+| Button Clicked: BeginGameButton | GameTime: 68.67088 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 68.67088 sec |
+| Button Clicked: CancelSearchButton | GameTime: 75.19142 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 75.19142 sec |
+| Game Ended | Total Score: 1 | GameTime: 77.08609 sec |

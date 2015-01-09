@@ -1,0 +1,89 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 3.249104 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 4.761266 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 5.354984 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 5.354984 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 6.511298 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 6.511298 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 7.573817 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 7.573817 sec |
+| Button Clicked: BeginGameButton | GameTime: 8.214396 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 8.214396 sec |
+| Button Clicked: CancelSearchButton | GameTime: 17.91053 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 17.91053 sec |
+| Button Clicked: BeginGameButton | GameTime: 19.0042 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 19.0042 sec |
+| Search Completed, found 200 publications | GameTime: 20.09809 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 20.09809 sec |
+| New Puzzle Opened - Titles: 0= "Influence of epitaxial layer on SiC Schottky diode gas sensors operated under high-temperature conditions" 1= "Regionala klimat och energistrategier i Skåne och Västra Götalands län" 2= "Donor-Acceptor Pair Luminescence of P-Al and N-Al Pairs in 3C-SiC and the Ionization Energy of the P Donor" 3= "Industrial symbiosis for improving the CO2-performance of cement"  - Solution = "Regionala klimat och energistrategier i Skåne och Västra Götalands län" - Abstract: "Länsstyrelserna har under en längre tid arbetet med att konkretisera de nationella miljömålen i länen men i och med regleringsbrevet för 2008 fick Länsstyrelserna också uppdraget att driva ett strategiskt planeringsarbete att ta fram regionala klimat- och energistrategier i respektive län. Det är dock flera aktörer i länen som arbetar med klimat- och energifrågor, såsom kommunerna, kommunalförbunden och energikontoren. Skåne och Västra Götaland har också inrättat regionkommuner som bland annat ska arbeta med regionala utvecklingsfrågor. Syftet med detta arbetsnotat är att diskutera och analysera Länsstyrelsens arbetsuppgifter för klimat- och energifrågor med avseende på ansvar och legitimitet i förhållande till övriga aktörer i länen såsom regionkommunerna, kommun/kommunalförbund, kommuner och energikontoren. Hur uppfattar dessa aktörer att Länsstyrelserna hanterar sitt uppdrag att ta fram klimat- och energistrategier? Hur ser dessa aktörer på Länsstyrelsernas ansvar och legitimitet att driva planering av regionalt klimat- och energiarbete och vilket ansvar har regionkommuner, kommun/kommunalförbund, kommuner och energikontor i det regionala klimat- och energiarbetet?Metoden för att ha möjlighet att diskutera och analysera studiens syfte har baserat sig på djupintervjuer av semistrukturerad karaktär med representanter för Länsstyrelserna, regionkommunerna, kommun/kommunalförbunden, kommunerna samt energikontoret i Skåne och Västra Götaland.Länsstyrelserna i Skåne och Västra Götaland har båda tagit fram klimat- och energistrategier genom planeringsprocesser som inkluderat regionkommunerna men där få andra aktörer har införlivats i processen. I Skåne fick kommunerna vara remissinstans men i båda länen har arbetet mer karakteriserats av dialog med redan upparbetade kontakter från tidigare sammanhang. De övriga regionala aktörerna hade också i flera fall vag kännedom om klimat- och energistrategiernas form och innehåll och menade att de inte inkluderats i planeringsprocessen av strategin. Ett problem när inblandade aktörer inte införlivats i planeringsprocessen är om övriga aktörer kommer att ta till sig strategin, se den som legitim och integrera den in den egna verksamheten som är en förutsättning när det kommer till klimat- och energiåtgärder eftersom det är främst kommunerna som ska leda det praktiska arbetet.Ansvarsfördelningen för klimat- och energifrågor är oklar i båda länen, mycket genom att regionkommunerna också hade tagit fram strategiska dokument för klimat- och energiarbetet i länen vilket försvårade uppfattningen för främst kommunala aktörer över vem som egentligen ska göra vad i länet när det kommer till klimat- och energifrågor. Flera aktörer uppfattar att Länsstyrelserna och regionkommunerna driver samma frågor ur liknande perspektiv. Det här blir problematiskt för kommunerna som efterfrågar hjälp och stöd i det kommunala klimat- och energiarbetet. I och med den oklara ansvarsfördelningen mellan främst Länsstyrelserna och regionkommunerna vet inte kommunerna vilken aktör de ska följa och vägledas av. Flera kommuner ser att Länsstyrelserna ska arbeta med dessa frågor nu och i framtiden, medan andra ser att klimat- och energistrategiska frågor är en naturlig uppgift för regionkommunerna och de borde ta över ansvaret för klimat- och energistrategiska frågor. Hur framtiden ser ut gällande vem som ska leda klimat- och energiarbetet i länen är oklar och beror mycket på hur Länsstyrelse och regionkommun fördelar eller samordnar sitt arbete, samt vilken av aktörerna som kommunerna anser vara legitima att driva en sådan planeringsprocess som är avgörande för verkställandet av åtgärder för klimat- och energifrågorna." | GameTime: 20.09809 sec |
+| Button Clicked: Answer2Button | GameTime: 24.53106 sec |
+| Player submitted answer: "Regionala klimat och energistrategier i Skåne och Västra Götalands län" was CORRECT | GameTime: 24.53106 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 24.53106 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 30.03547 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 30.03547 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 31.22295 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 31.22295 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 32.04155 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 32.04155 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 33.92879 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 33.92879 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 38.85995 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 38.85995 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 40.2975 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 40.2975 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 41.40693 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 41.40693 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 42.20382 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 42.20382 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 43.31311 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 43.31311 sec |
+| Button Clicked: BeginGameButton | GameTime: 43.95166 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 43.95166 sec |
+| Button Clicked: CancelSearchButton | GameTime: 48.63109 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 48.63109 sec |
+| Button Clicked: BeginGameButton | GameTime: 49.66226 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 49.66226 sec |
+| Search Completed, found 200 publications | GameTime: 50.81857 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 50.81857 sec |
+| New Puzzle Opened - Titles: 0= "'Legitimation' and 'development of positive externalities'" 1= "Comment on "turbulence-condensate interaction in two dimensions"" 2= "An Empirical Survey of the Ramifications of a Green Economy" 3= "Att tolka spåren från det förflutna"  - Solution = "An Empirical Survey of the Ramifications of a Green Economy" - Abstract: "The unprecedented deterioration of our global environment has increased the necessity of relying upon Green Economic policies as critical and effective environmental management tools. The current situation has stimulated extensive research and debate among global interest groups. This has fostered an ever-growing volume of literature that provides a picture of the best measures affecting the establishment of the Green Economy – including its development and outcomes. This paper provides a survey of the green economy in self-contained form and accessible to the non-specialist readers. First, it reviews the recent developments in green economy: its theoretical foundation, political background and developmental strategies towards genuine, sustainable development. Second, the circular economy, networks, organizations, policies, infrastructure and measurable expected effects are discussed. Third, the theoretical and empirical results and findings regarding the green economy and its practice do lead to a number of conclusions regarding measurement of improvements, achievement of outcomes and identification of causal effects. Finally, summaries of current and possible future Green Development tendencies with a focus upon directions, policy, organizations, capacity, areas and interventions are provided and extensions that can serve as optimal directions for future research and policy are suggested." | GameTime: 50.81857 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 70.78422 sec |
+| State Change FROM GAMEPLAY TO PLAYERCONFIG | GameTime: 70.78422 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 72.78421 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 72.78421 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 73.44749 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 73.44749 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 79.66045 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 79.66045 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 87.1175 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 87.1175 sec |
+| Button Clicked: AddSearch_Button | GameTime: 93.20553 sec |
+| Button Clicked: BeginGameButton | GameTime: 93.93966 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 93.93966 sec |
+| Search Completed, found 200 publications | GameTime: 95.80859 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 95.80859 sec |
+| New Puzzle Opened - Titles: 0= "The Ethics of Investing. Making Money or Making a Difference?" 1= "Complexity, finance, and progress in human geography" 2= "The Active Site of a Carbohydrate Esterase Displays Divergent Catalytic and Noncatalytic Binding Functions" 3= "Violations of invariance of value of money in economic transactions"  - Solution = "The Ethics of Investing. Making Money or Making a Difference?" - Abstract: "The concepts of ‘ethical’ and ‘socially responsible’ investment (SRI) have become increasingly popular in recent years and funds which offer this kind of investment have attracted many individual investors. The present book addresses the issue of ‘How ought one to invest?’ by critically engaging with the ideas of the proponents of this movement about what makes ‘ethical’ investing ethical. The standard suggestion that ethical investing simply consists in refraining from investing in certain ‘morally unacceptable companies’ is criticised for being both too rigid (often resting on absolute moral rules which lead to an austere conclusion) and too ineffective for individual investors (investors who after all control only a small part of the investment universe). Furthermore, the idea that ethical investing could consist in engaging more actively with the companies one invests in, in order to make them change their ways and become more socially responsible, is criticised for being just as ineffective for individual investors. Some more radical alternatives are elaborated on and defended – for instance, the suggestion that investors should make as much money from their investments as possible and then donate the proceeds to socially worthwhile charities. From similar suggestions, the common idea that there is no conflict between morality and profitability, or that genuinely ethical investing can be just as profitable as mainstream investing, is criticised for being too naïve. Making a difference may indeed require personal sacrifice of investors, but it is argued that the needs of the possible recipients of philanthropy are morally more important than the luxury of investment returns." | GameTime: 95.80859 sec |
+| Button Clicked: Answer1Button | GameTime: 102.6545 sec |
+| Player submitted answer: "The Ethics of Investing. Making Money or Making a Difference?" was CORRECT | GameTime: 102.6545 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 102.6545 sec |
+| Button Clicked: NextPuzzleButton | GameTime: 104.6743 sec |
+| State Change FROM PUZZLE_COMPLETED TO GAMEPLAY | GameTime: 104.6743 sec |
+| New Puzzle Opened - Titles: 0= "'Money talks'" 1= "Levi on Money Pumps and Diachronic Dutch-Book Arguments" 2= "pop" 3= "A New Role for For-profit Actors?"  - Solution = "A New Role for For-profit Actors?" - Abstract: "The article analyses what the third EU Directive on AML (anti-money laundering) and risk management means in terms of democratic accountability when the banking sector is given a role that is traditionally the prerogative of the public actors. The comparison between the UK and Sweden on the private actors' role in various stages of the risk-based decision process shows that the procedures used could jeopardize the traditional liberal understanding of democratic accountability." | GameTime: 104.6743 sec |
+| Button Clicked: Answer1Button | GameTime: 114.4083 sec |
+| Player submitted answer: "'Money talks'" was WRONG | GameTime: 114.4083 sec |
+| Button Clicked: Answer2Button | GameTime: 119.7676 sec |
+| Player submitted answer: "Levi on Money Pumps and Diachronic Dutch-Book Arguments" was WRONG | GameTime: 119.7676 sec |
+| Button Clicked: Answer4Button | GameTime: 120.877 sec |
+| Player submitted answer: "A New Role for For-profit Actors?" was CORRECT | GameTime: 120.877 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 120.877 sec |
+| Button Clicked: NextPuzzleButton | GameTime: 123.0645 sec |
+| State Change FROM PUZZLE_COMPLETED TO GAMEPLAY | GameTime: 123.0645 sec |
+| New Puzzle Opened - Titles: 0= "All about the money - external performance monitoring is affected by monetary, but not by socially conveyed feedback cues in more antisocial individuals" 1= "Corruption in a culture of money: Understanding social norms in post-Soviet Uzbekistan" 2= "Bidrag till familjens ekonomiska historia" 3= "Money and consumption in Swedish couples"  - Solution = "Corruption in a culture of money: Understanding social norms in post-Soviet Uzbekistan" - Abstract: "The aim of this article is to explore the social meaning and ordinary activities surrounding informal transactions in order to better understand the social context forming the premises and informing the meaning of corruption in Uzbekistan. A theoretically founded hypothesis is that informal transactions in Uzbek society reflect different cultural meanings than in the Western world. If this is true, there may be reasons to re-evaluate the concept of corruption in order to reflect the morality of exchange in Uzbekistan. This article is based on two periods of field research between 2009-2010 in Oltiariq district of Fergana region, Uzbekistan. We used ethnographic methods and the case of wedding ceremonies in order to illustrate local perceptions of informal exchange. Our results can be summarised in three main points: (a) informal transactions are deeply embedded in cultural practices; (b) not all informal transactions are corrupt; (c) when talking about (or measuring) corruption, local perceptions should be taken into account." | GameTime: 123.0645 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 130.0142 sec |
+| State Change FROM GAMEPLAY TO PLAYERCONFIG | GameTime: 130.0142 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 131.4361 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 131.4361 sec |
+| Button Clicked: MainMenu_HighScoreButton | GameTime: 133.2955 sec |
+| State Change FROM MENU TO HIGHSCORESCREEN | GameTime: 133.2955 sec |
+| Button Clicked: ExitHighScoreButton | GameTime: 149.8141 sec |
+| State Change FROM HIGHSCORESCREEN TO MENU | GameTime: 149.8141 sec |
+| Button Clicked: MainMenu_ExitButton | GameTime: 152.1423 sec |
+| Game Ended | Total Score: 25518 | GameTime: 153.778 sec |

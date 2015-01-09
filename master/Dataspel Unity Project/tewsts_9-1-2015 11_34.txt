@@ -1,0 +1,16 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 5.712147 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 7.922501 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 9.337214 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 9.337214 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 10.49616 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 10.49616 sec |
+| Search started - Searchterms: | GameTime: 10.49616 sec |
+| Button Clicked: CancelSearchButton | GameTime: 147.0645 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 147.0645 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 148.3732 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 148.3732 sec |
+| Search started - Searchterms: | GameTime: 148.3732 sec |
+| Search Completed, found 200 publications | GameTime: 149.1433 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 149.1433 sec |
+| New Puzzle Opened - Titles: 0= "Mild steam explosion followed by kraft cooking and oxygen delignification of spruce (Picea abies)" 1= "Donor incorporation in SiC epilayers grown at high growth rate with chloride-based CVD" 2= "Transcranial transmission of bone conducted sound measured acoustically and psychoacoustically" 3= "Oxidation and Corrosion of New MCrAlX Coatings"  - Solution = "Mild steam explosion followed by kraft cooking and oxygen delignification of spruce (Picea abies)" - Abstract: "The paper considers mild steam explosion as an initial biorefinery process step to make wood more accessible for chemicals and enzymes in subsequent extraction and isolation procedures. Wood chips were exploded at four and seven bars and the effects of the treatments were followed during both kraft cooking and oxygen delignification. The properties of the unbleached and bleached pulps, including kappa number, pulp yield, fibre length, intrinsic viscosity, chemical composition and ISO brightness, were analysed using standard methods. The findings showed a difference between treatment at four and seven bars, as the higher pressure leads to more significant visual changes as well as somewhat increased degradation of hemicelluloses. These changes however, have no apparent significant negative effect on the final pulp properties. To the contrary, a benefit of steam treatment seems that the time to reach a certain kappa number was slightly reduced with steam-exploded wood chips." | GameTime: 149.1433 sec |
+| Game Ended | Total Score: 1 | GameTime: 165.358 sec |

@@ -1,0 +1,8 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 4.196727 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 5.21232 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 6.462175 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 6.462175 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 11.82907 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 11.82907 sec |
+| Search started - Searchterms: freeText = julian togelius | GameTime: 11.82907 sec |
+| Game Ended | Total Score: 1 | GameTime: 119.3858 sec |

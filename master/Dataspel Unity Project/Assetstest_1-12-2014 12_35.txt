@@ -1,0 +1,33 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.502683 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.705808 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.455759 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.455759 sec |
+| Button Clicked: AddSearch_Button | GameTime: 9.549442 sec |
+| Button Clicked: BeginGameButton | GameTime: 10.14315 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 10.14315 sec |
+| Button Clicked: CancelSearchButton | GameTime: 45.64986 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 45.64986 sec |
+| Button Clicked: AddSearch_Button | GameTime: 109.567 sec |
+| Button Clicked: BeginGameButton | GameTime: 110.0045 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 110.0045 sec |
+| Search Completed, found 25 publications | GameTime: 117.1879 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 117.1879 sec |
+| New Puzzle Opened - Titles: 0= "Bilateral vs. ipsilateral venography as the primary efficacy outcome measure in thromboprophylaxis clinical trials: a systematic review" 1= "Educational priorities and current involvement in genetic practice: a survey of midwives in the Netherlands, UK and Sweden" 2= "Simple Epitaxial Lateral Overgrowth Process as a Strategy for Photonic Integration on Silicon" 3= "Somatic mosaic IDH1 and IDH2 mutations are associated with enchondroma and spindle cell hemangioma in Ollier disease and Maffucci syndrome"  - Solution = "Bilateral vs. ipsilateral venography as the primary efficacy outcome measure in thromboprophylaxis clinical trials: a systematic review" - Abstract: "Contrast venography, in combination with symptomatic venous thromboembolism (VTE), is the standard efficacy outcome measure in clinical trials of thromboprophylaxis in major orthopedic surgery. It is uncertain whether performing bilateral venography offers any real advantage over venography of the operated leg alone. This study was undertaken to determine the risk of isolated contralateral deep vein thrombosis (DVT) following major orthopedic surgery and to evaluate whether bilateral venography, rather than venography on the operated leg alone, offers any gain in DVT detection and, thereby, improves efficiency in clinical study design. A systematic review of prospective studies that reported DVT incidence as the primary efficacy outcome based on mandatory bilateral venography in patients undergoing elective hip or knee arthroplasty or hip fracture repair was conducted. Based on the use of bilateral venography as a primary efficacy outcome measure, the incidence of any DVT is 16.7% following total hip replacement, 18.8% after hip fracture repair, and 33.8% after total knee replacement. While DVT risk in the operated leg varies depending on the type of surgery, the risk of isolated DVT in the non-operated leg is approximately 4% to 5% in all three procedures. By increasing the detection of any DVT, the use of bilateral venography reduces required sample size by 16% to 25% compared to ipsilateral venography. In clinical trials evaluating the efficacy of thromboprophylaxis in major orthopedic surgery, bilateral venography reduces the risk of undiagnosed DVT in the non-operated leg and improves the efficiency of study design by substantially reducing the sample size requirement." | GameTime: 117.1879 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 121.7974 sec |
+| State Change FROM GAMEPLAY TO PLAYERCONFIG | GameTime: 121.7974 sec |
+| Button Clicked: AddSearch_Button | GameTime: 126.5411 sec |
+| Button Clicked: BeginGameButton | GameTime: 127.7599 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 127.7599 sec |
+| Button Clicked: CancelSearchButton | GameTime: 147.3075 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 147.3075 sec |
+| Button Clicked: AddSearch_Button | GameTime: 152.0106 sec |
+| Button Clicked: BeginGameButton | GameTime: 154.1044 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 154.1044 sec |
+| Search Completed, found 0 publications | GameTime: 155.0731 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 155.0731 sec |
+| Button Clicked: Button | GameTime: 157.8075 sec |
+| Button Clicked: AddSearch_Button | GameTime: 163.4102 sec |
+| Button Clicked: BeginGameButton | GameTime: 164.582 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 164.582 sec |
+| Search Completed, found 0 publications | GameTime: 175.0415 sec |
+| Game Ended | Total Score: 1 | GameTime: 175.0415 sec |

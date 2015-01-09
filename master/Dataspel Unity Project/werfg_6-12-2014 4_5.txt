@@ -1,0 +1,30 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.876946 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.814485 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.866997 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.866997 sec |
+| Button Clicked: BeginGameButton | GameTime: 5.416661 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.416661 sec |
+| Search Completed, found 200 publications | GameTime: 7.132968 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 7.132968 sec |
+| New Puzzle Opened - Titles: 0= "Att tolka spåren från det förflutna" 1= "Anomalous diffusion of field lines and charged particles in Arnold-Beltrami-Childress force-free magnetic fields" 2= "Development and Safety Evaluation of Nanomaterials for Encapsulation andDelivery of Stem Cells to Dysfunctional Heart Tissue" 3= "Minimal cubic cones via Clifford algebras"  - Solution = "Att tolka spåren från det förflutna" - Abstract: "This licentiate thesis explores the activity of historical reasoning in terms of primary source analysis among upper secondary school students. The thesis is a compilation of two scientific articles in history didactics. Two Learning studies, a theory-informed and interventionistic research methodology, were organised to explore historical reasoning. Three research questions are ad- dressed: (1) what does it mean to be able to analyse historical primary sources, (2) what is critical to discern when learning primary source analysis, and (3) what is characteristic for the processes of learning and meaning- making when students work with source analysis assignments? The first article uses phenomenography to explore fifteen students’ perceptions of a historical primary source and the difficulties they face when examining the source. Data was collected through a series of group interviews where stu- dents were asked to respond to a historical letter. The analysis resulted in four qualitatively different categories of perceptions of the source and three critical aspects that emerged between the categories. It is suggested that it is critical to (1) discern and separate the historical perspective, (2) to discern and separate the perspective of the historical actor and (3) to discern and separate the subtext of the source in relation to the historical context. The second article uses a form of content focused conversation analysis to ex- plore the processes of learning and attributing meaning when students work with primary sources. Data was collected through audio recordings of stu- dents’ collaborative work on two assignments. The main results are descrip- tions of the students’ learning and meaning making processes. For instance, when students discern and separate the historical perspective and historical actors’ perspectives. An interesting finding was a strategy used by students to take on the roles of hypothetical historical agents. It is suggested that cer- tain aspects of school culture might inhibit students’ learning of primary source analysis and that students’ life-world perspective is vital in creating meaning. Finally, historical reasoning is discussed in relation to the concept of historical consciousness and it is argued that historical reasoning should include the perspectives of deconstruction, subjectivity and interpretation to better comply with history teaching." | GameTime: 7.132968 sec |
+| Button Clicked: Answer2Button | GameTime: 25.0144 sec |
+| Player submitted answer: "Anomalous diffusion of field lines and charged particles in Arnold-Beltrami-Childress force-free magnetic fields" was WRONG | GameTime: 25.0144 sec |
+| Button Clicked: Answer3Button | GameTime: 26.7684 sec |
+| Player submitted answer: "Development and Safety Evaluation of Nanomaterials for Encapsulation andDelivery of Stem Cells to Dysfunctional Heart Tissue" was WRONG | GameTime: 26.7684 sec |
+| Button Clicked: Answer4Button | GameTime: 28.10999 sec |
+| Player submitted answer: "Minimal cubic cones via Clifford algebras" was WRONG | GameTime: 28.10999 sec |
+| Button Clicked: Answer1Button | GameTime: 29.19714 sec |
+| Player submitted answer: "Att tolka spåren från det förflutna" was CORRECT | GameTime: 29.19714 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 29.19714 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 36.12382 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 36.12382 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 37.73117 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 37.73117 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 52.12207 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 52.12207 sec |
+| Button Clicked: AbstractButton1 | GameTime: 53.2002 sec |
+| Button Clicked: AbstractButton1 | GameTime: 83.27996 sec |
+| Button Clicked: AbstractButton1 | GameTime: 83.4519 sec |
+| Button Clicked: ExitButton | GameTime: 84.65715 sec |
+| State Change FROM COLLECTEDPUBLICATIONS TO MENU | GameTime: 84.65715 sec |
+| Game Ended | Total Score: 9761 | GameTime: 86.7905 sec |

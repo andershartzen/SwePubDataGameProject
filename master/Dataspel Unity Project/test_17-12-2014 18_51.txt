@@ -1,0 +1,14 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.70326 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.54701 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.07824 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.07824 sec |
+| Button Clicked: BeginGameButton | GameTime: 3.859525 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 3.859525 sec |
+| Search started - Searchterms: | GameTime: 3.859525 sec |
+| Search Completed, found 200 publications | GameTime: 5.73457 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 5.73457 sec |
+| New Puzzle Opened - Titles: 0= "Path dependency in industries with multiple technological trajectories" 1= "Measurement depth and volume in laser Doppler flowmetry" 2= "Minimal cubic cones via Clifford algebras" 3= "Development and Safety Evaluation of Nanomaterials for Encapsulation andDelivery of Stem Cells to Dysfunctional Heart Tissue"  - Solution = "Minimal cubic cones via Clifford algebras" - Abstract: "In this paper, we construct two infinite families of algebraic minimal cones in R n . The first family consists of minimal cubics given explicitly in terms of the Clifford systems. We show that the classes of congruent minimal cubics are in one to one correspondence with those of geometrically equivalent Clifford systems. As a byproduct, we prove that for any n ≥ 4, n ≠ 16k + 1, there is at least one minimal cone in R n given by an irreducible homogeneous cubic polynomial. The second family consists of minimal cones in R m 2 , m ≥ 2, defined by an irreducible homogeneous polynomial of degree m. These examples provide particular answers to the questions on algebraic minimal cones in R n posed by Wu-Yi Hsiang in the 1960s." | GameTime: 5.73457 sec |
+| Button Clicked: Answer3Button | GameTime: 42.67228 sec |
+| Player submitted answer: "Minimal cubic cones via Clifford algebras" was CORRECT | GameTime: 42.67228 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 42.67228 sec |
+| Game Ended | Total Score: 807 | GameTime: 49.54731 sec |

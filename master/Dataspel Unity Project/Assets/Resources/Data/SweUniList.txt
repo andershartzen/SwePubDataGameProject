@@ -1,0 +1,44 @@
+Uppsala universitet;uu;Uppsala
+Lunds universitet;lu;Lund
+Göteborgs universitet;gu;Göteborg
+Stockholms universitet;su;Stockholm
+Umeå universitet;umu;Umeå
+Linköpings universitet;liu;Linköpings
+Karolinska institutet;ki;Karolinska
+Kungliga Tekniska högskolan;kth;Kungliga
+Luleå tekniska universitet;ltu;Luleå
+Karlstads universitet;kau;Karlstad
+Linnéuniversitetet;lnu;Linné
+Örebro universitet;öu;Örebro
+Mittuniversitetet;miu;Mitt
+Sveriges lantbruksuniversitet;slu;lantbruksuniversitet
+Blekinge tekniska högskola;bth;Blekinge
+Gymnastik- och idrottshögskolan;gih;Gymnastik
+Högskolan i Halmstad;hh;Halmstad
+Högskolan i Skövde;hs;Skövde
+Malmö högskola;mah;Malmö
+Mälardalens högskola;mdh;
+Södertörns högskola;sh;Södertörns
+Högskolan i Gävle;hig;Gävle
+Försvarshögskolan;fhs;Försvar
+Högskolan i Borås;hb;Borås
+Högskolan Dalarna;hda;Dalarna
+Högskolan Kristianstad;hkr;Kristianstad
+Högskolan Väst;hv;Väst
+Konstfack;kf;Konstfack
+Kungl. Musikhögskolan i Stockholm;kmh;Musikhögskolan
+Chalmers tekniska högskola;cth;Chalmer
+Handelshögskolan i Stockholm;hhs;Handelshögskolan
+Beckmans designhögskola;bdh;Beckman
+Ersta Sköndal högskola;esh;Sköndal
+Gammelkroppa skogsskola;gss;skogsskola
+Johannelunds teologiska högskola;jth;Johannelund
+Newmaninstitutet;ni;Newman
+Röda korsets högskola;rkh;Röda
+Sophiahemmet Högskola;shh;Sophiahemmet
+Stockholms Musikpedagogiska Institut;smi;Musikpedagogiska
+Teologiska högskolan i Stockholm;ths;Teologiska
+Örebro teologiska högskola;öth;Örebro
+Förbundet S:t Lukas utbildningsinstitut;luk;Lukas
+Stockholms akademi för psykoterapiutbildning;sapu;psykoterapiutbildning
+Högskolan i Jönköping;hj;Jönköping

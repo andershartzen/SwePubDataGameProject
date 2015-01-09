@@ -1,0 +1,14 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.712405 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 4.522244 sec |
+| Button Clicked: MainMenu_Options Button | GameTime: 9.68639 sec |
+| State Change FROM MENU TO OPTIONSMENU | GameTime: 9.68639 sec |
+| Button Clicked: Button_ExitOptions | GameTime: 12.19122 sec |
+| State Change FROM OPTIONSMENU TO MENU | GameTime: 12.19122 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 13.09016 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 13.09016 sec |
+| Button Clicked: BeginGameButton | GameTime: 13.94582 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 13.94582 sec |
+| Search Completed, found 200 publications | GameTime: 17.06277 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 17.06277 sec |
+| New Puzzle Opened - Titles: 0= "De novo tertiary structure prediction using RNA123-benchmarking and application to Macugen" 1= "Which Emily Dickinson in Translation?" 2= "Prospects of dialogue-inspired methods as tools for knowledge transfer" 3= "Making an effort for free"  - Solution = "Prospects of dialogue-inspired methods as tools for knowledge transfer" - Abstract: "Horticultural production systems have a large environmental impact. Legislation, ordinances and quality assurance systems provide guidelines for implementing sustainable production technologies in horticulture at a higher level. Horticultural research has compiled solutions to improve sustainable production. Despite of regulations, hands-on information, solid scientific data on sustainable strategies for horticulture and a general environmental awareness, there is reluctance in considering sustainable technology and reorganizing horticultural production lines. Knowledge within commercial horticulture is situated knowledge; this means experience consolidated within the branch is a precondition for application. However, knowledge on sustainable technology follows the tradition of natural sciences and technology. Another crucial aspect concerns the path from understanding sustainable technology to putting it into action. Reflection on reflection in action as an activity aims at producing a good verbal description of reflection in action, which can be shared with other people. While reflection in or on action is primarily private the notion of reflection on reflection in action is tied to the fact that learning and experience exchange are social activities that proceed in different communities of practice. Dialogue-inspired methods may act as a tool. In the present paper we discuss the dialogue seminar and Socratic dialog methods to bridge the gap between scientific and technological progress in horticulture and horticultural practice to be employed in horticultural extension." | GameTime: 17.06277 sec |
+| Game Ended | Total Score: 1 | GameTime: 29.04866 sec |

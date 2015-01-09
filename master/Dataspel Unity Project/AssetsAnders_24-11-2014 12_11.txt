@@ -1,0 +1,14 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 8.769094 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 9.913894 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 10.91707 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 10.91707 sec |
+| Button Clicked: BeginGameButton | GameTime: 12.24903 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 12.24903 sec |
+| Button Clicked: CancelSearchButton | GameTime: 17.92643 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 17.92643 sec |
+| Button Clicked: BeginGameButton | GameTime: 20.40296 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 20.40296 sec |
+| Search Completed, found 200 publications | GameTime: 22.60783 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 22.60783 sec |
+| New Puzzle Opened - Titles: 0= "De novo tertiary structure prediction using RNA123-benchmarking and application to Macugen" 1= "Ergonomic changes and their consequences in a Swedish meat cutting plant" 2= "Six Sigma diplomacy - the impact of Six Sigma on national patterns of corporate culture" 3= "Comment on "turbulence-condensate interaction in two dimensions""  - Solution = "Ergonomic changes and their consequences in a Swedish meat cutting plant" - Abstract: "Rotation schemes reducing daily working time with knife to 6 hours were planned and implemented at a meat cutting plant in a participatory process. These changes were evaluated concerning results, the change process and consequences on organizational performance. A questionnaire to the meat cutters and interviews with the production leaders were conducted. The results support that the meat cutters experienced the changes positively and that a reduction in physical and mental fatigue was reached. Other experiences were mixed indicating that both work organizational characteristics and local history should be taken more into consideration. The organizational performance was not particularly affected." | GameTime: 22.60783 sec |
+| Game Ended | Total Score: 1 | GameTime: 30.06554 sec |

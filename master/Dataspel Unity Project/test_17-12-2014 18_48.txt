@@ -1,0 +1,14 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.132414 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.319901 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 2.976162 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 2.976162 sec |
+| Button Clicked: AddSearch_Button | GameTime: 5.684249 sec |
+| Button Clicked: BeginGameButton | GameTime: 6.059138 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 6.059138 sec |
+| Search started - Searchterms: freeText = game | GameTime: 6.059138 sec |
+| Button Clicked: CancelSearchButton | GameTime: 80.67323 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 80.67323 sec |
+| Button Clicked: BeginGameButton | GameTime: 82.70448 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 82.70448 sec |
+| Search started - Searchterms: | GameTime: 82.70448 sec |
+| Game Ended | Total Score: 1 | GameTime: 138.5984 sec |

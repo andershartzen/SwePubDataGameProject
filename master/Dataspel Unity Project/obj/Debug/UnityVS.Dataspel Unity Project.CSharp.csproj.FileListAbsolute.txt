@@ -1,0 +1,11 @@
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\obj\Debug\UnityVS.Dataspel Unity Project.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\andershh\SkyDrive\Documents\Ansættelser\DataSpel\Code\Dataspel Unity Project\obj\Debug\Assembly-CSharp.pdb

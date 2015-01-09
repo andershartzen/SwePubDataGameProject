@@ -1,0 +1,17 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.100668 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 1.960023 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 2.616341 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 2.616341 sec |
+| Button Clicked: AddSearch_Button | GameTime: 5.600713 sec |
+| Button Clicked: BeginGameButton | GameTime: 6.116261 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 6.116261 sec |
+| Search started - Searchterms: freeText = game | GameTime: 6.116261 sec |
+| Search Completed, found 200 publications | GameTime: 9.600678 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 9.600678 sec |
+| New Puzzle Opened - Titles: 0= "Game-based learning in Second Life®" 1= "Social media game concept within the Digital Zoo" 2= "Game Design and Player Emotions" 3= "Knowing the Way. Managing Epistemic Topologies in Virtual Game Worlds"  - Solution = "Game-based learning in Second Life®" - Abstract: "New learning technologies have changed the way teaching and learning is delivered. One of the technologies that offers great potential in helping to motivate and engage students is game-based learning. Social virtual worlds offer rich interactive three-dimensional collaborative spaces where users can meet and interact. One example of such an environment is Second Life (http://www.secondlife.com; henceforth ‘Second Life'). This article provides an overview of a recent trial carried out at Imperial College London aimed to explore gender-related attitudes towards game-based learning in Second Life. This article also draws on three recent studies to furthermore explore gender-related issues in computer and video game play. We here argue that the gender gap in gaming and learning is becoming less analytically significant, and in conjunction with this that game experiences have to be viewed from a more inclusive perspective in regard to game genre, gender and age" | GameTime: 9.600678 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 11.61629 sec |
+| State Change FROM GAMEPLAY TO PLAYERCONFIG | GameTime: 11.61629 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 12.72609 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 12.72609 sec |
+| Button Clicked: MainMenu_ExitButton | GameTime: 14.2413 sec |
+| Game Ended | Total Score: 1 | GameTime: 15.46013 sec |

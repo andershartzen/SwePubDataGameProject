@@ -1,0 +1,14 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.286201 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.200521 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.950452 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.950452 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 8.813866 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 8.813866 sec |
+| Search started - Searchterms: freeText = phenomenology | GameTime: 8.813866 sec |
+| Search Completed, found 200 publications | GameTime: 11.41924 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 11.41924 sec |
+| New Puzzle Opened - Titles: 0= "A phenomenological study of being cared for in a critical care setting: The meanings of the patient room as a place of care." 1= "Phenomenology and the making of the world" 2= "Towards a Phenomenology of Repression" 3= "Long-lived Stops in MSSM Scenarios with a Neutralino LSP"  - Solution = "Towards a Phenomenology of Repression" - Abstract: "This is the first book-length philosophical study of Husserl’s transcendental phenomenology and Freud’s theory of the unconscious. The book investigates the possibility for Husserl’s transcendental phenomenology to clarify Freud’s concept of the unconscious with a focus on the theory of repression as its centre. Repression is the unconscious activity of pushing something away from consciousness, while making sure that it remains active as something foreign within us. How this is possible is the main problem addressed in the work. Unlike previous literature (including Ricœur, Merleau-Ponty and Derrida) this book makes full use of the resources of genetic phenomenology and passivity in the attempt to clarify the Freudian unconscious. The central argument developed is that the structure of the lebendige Gegenwart as the core of Husserl’s theory of passivity consists of preliminary forms of bodily kinaesthesia, feelings and drives in a constantly ongoing process where repression occurs as a necessary part of all constitution. The clarification of Freudian repression thus takes place by showing how it presupposes a broad conception of consciousness such as that presented by Husserl’s genetic phenomenology. By arguing that “repression” is central to any philosophical account of subjectivity, this book takes on the most distinct challenge to philosophy posed by Freud." | GameTime: 11.41924 sec |
+| Button Clicked: Answer3Button | GameTime: 26.49461 sec |
+| Player submitted answer: "Towards a Phenomenology of Repression" was CORRECT | GameTime: 26.49461 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 26.49461 sec |
+| Game Ended | Total Score: 1593 | GameTime: 34.03448 sec |

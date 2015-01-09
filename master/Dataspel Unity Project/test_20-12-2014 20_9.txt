@@ -1,0 +1,20 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.794865 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.997897 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.294823 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.294823 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 13.09188 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 13.09188 sec |
+| Search started - Searchterms: freeText = game | GameTime: 13.09188 sec |
+| Button Clicked: CancelSearchButton | GameTime: 35.12647 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 35.12647 sec |
+| Button Clicked: ResetSuperSimpleSearchButton | GameTime: 36.51707 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 46.99807 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 46.99807 sec |
+| Search started - Searchterms: freeText = financial | GameTime: 46.99807 sec |
+| Button Clicked: CancelSearchButton | GameTime: 61.4677 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 61.4677 sec |
+| Button Clicked: ResetSuperSimpleSearchButton | GameTime: 62.59266 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 63.21771 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 63.21771 sec |
+| Search started - Searchterms: | GameTime: 63.21771 sec |
+| Game Ended | Total Score: 1 | GameTime: 79.03247 sec |

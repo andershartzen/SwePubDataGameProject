@@ -1,0 +1,11 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.151122 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.135643 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.651117 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.651117 sec |
+| Button Clicked: BeginGameButton | GameTime: 5.213672 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.213672 sec |
+| Search started - Searchterms: | GameTime: 5.213672 sec |
+| Search Completed, found 200 publications | GameTime: 25.50768 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 25.50768 sec |
+| New Puzzle Opened - Titles: 0= "A Combination Regimen of Bortezomib, Cyclophosphamide and Betamethasone Gives Quicker, Better and More Durable Response than VAD/CyBet Regimens" 1= "Optimal vs. Heuristic Integrated Code Generation for Clustered VLIW Architectures." 2= "Real Life Grasping using an Under-actuated Robot Hand - Simulation and Experiments" 3= "Comparison between pain at discography and morphological disc changes at axial loaded MRI in patients with low back pain."  - Solution = "Comparison between pain at discography and morphological disc changes at axial loaded MRI in patients with low back pain." - Abstract: "Discogenic pain is induced by axial load, but there are no studies evaluating the influence of dynamic MRI in relation to provoked pain at discography. The aim of this study was to investigate the relationship between discography-induced pain and morphological disc changes, occurring during axial loaded MRI (alMRI). A secondary aim was to compare and register the frequency of provoked concordant pain at alMRI and discography." | GameTime: 25.50768 sec |
+| Game Ended | Total Score: 1 | GameTime: 31.18594 sec |

@@ -1,0 +1,31 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.729221 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.682369 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.508857 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.508857 sec |
+| Button Clicked: ResetSearchButton | GameTime: 4.727804 sec |
+| State Change FROM PLAYERCONFIG TO PLAYERCONFIG | GameTime: 4.727804 sec |
+| Button Clicked: AddTopicButtonSimple | GameTime: 5.651768 sec |
+| Button Clicked: BeginGameButton | GameTime: 9.792459 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 9.792459 sec |
+| Search Completed, found 200 publications | GameTime: 11.95866 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 11.95866 sec |
+| New Puzzle Opened - Titles: 0= "Counterfactuals and Semantic Tableaux" 1= "Land, Linen, or Charcoal?" 2= "Critiquing the Role of Deliberative Democracy in EE and ESD" 3= "Are religious people more prosocial? A quasi-experimental study with madrasah pupils in a rural community in India"  - Solution = "Critiquing the Role of Deliberative Democracy in EE and ESD" - Abstract: "There has been much written of the potential positive impact in Environmental Education (EE) and Education for Sustainable Development (ESD). This article explores the reliance on deliberative democracy by the proponents of EE/ESD and whether or not they have justification for their beliefs. Specifically, participation and deliberation will be separated in order to identify any faults in these values that may prevent democracy – and therefore education – from addressing the problems of sustainable development and environmental concerns. Through a deconstruction of the relevant literature and a clarification of the lines of thought brought forth throughout the various arguments, it is shown that there are few good theoretical or empirical reason for advocating a deliberative democratic approach to EE/ESD as feverishly as some do. Instead, the case for an educational method and content based on the empirically observed characteristics of current liberal democracies will be made." | GameTime: 11.95866 sec |
+| Button Clicked: Answer3Button | GameTime: 14.81522 sec |
+| Player submitted answer: "Critiquing the Role of Deliberative Democracy in EE and ESD" was CORRECT | GameTime: 14.81522 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 14.81522 sec |
+| Button Clicked: Button_ExitGameScreen | GameTime: 18.42278 sec |
+| State Change FROM PUZZLE_COMPLETED TO PLAYERCONFIG | GameTime: 18.42278 sec |
+| Button Clicked: Button_ExitPuzzleSetup | GameTime: 19.63645 sec |
+| State Change FROM PLAYERCONFIG TO MENU | GameTime: 19.63645 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 20.85099 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 20.85099 sec |
+| Button Clicked: AbstractButton1 | GameTime: 21.98551 sec |
+| Button Clicked: ExitButton | GameTime: 228.8257 sec |
+| State Change FROM COLLECTEDPUBLICATIONS TO MENU | GameTime: 228.8257 sec |
+| Button Clicked: MainMenu_CollectedPubsButton | GameTime: 230.185 sec |
+| State Change FROM MENU TO COLLECTEDPUBLICATIONS | GameTime: 230.185 sec |
+| Button Clicked: AbstractButton1 | GameTime: 231.0906 sec |
+| Button Clicked: AbstractButton1 | GameTime: 232.3406 sec |
+| Button Clicked: ButtonSavePubs | GameTime: 280.4208 sec |
+| Button Clicked: ExitButton | GameTime: 310.788 sec |
+| Game Ended | Total Score: 4682 | GameTime: 327.5567 sec |

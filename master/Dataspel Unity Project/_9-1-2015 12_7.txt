@@ -1,0 +1,20 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.851235 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.591196 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 4.982944 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 4.982944 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 5.928364 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 5.928364 sec |
+| Search started - Searchterms: | GameTime: 5.928364 sec |
+| Search Completed, found 200 publications | GameTime: 7.171416 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 7.171416 sec |
+| New Puzzle Opened - Titles: 0= "Miljömanagement" 1= "The ENIGMA Consortium" 2= "Energy Efficiency in Households" 3= "D-dimer predicts major bleeding, cardiovascular events and all-cause mortality during warfarin treatment"  - Solution = "The ENIGMA Consortium" - Abstract: "The Enhancing NeuroImaging Genetics through Meta-Analysis (ENIGMA) Consortium is a collaborative network of researchers working together on a range of large-scale studies that integrate data from 70 institutions worldwide. Organized into Working Groups that tackle questions in neuroscience, genetics, and medicine, ENIGMA studies have analyzed neuroimaging data from over 12,826 subjects. In addition, data from 12,171 individuals were provided by the CHARGE consortium for replication of findings, in a total of 24,997 subjects. By meta-analyzing results from many sites, ENIGMA has detected factors that affect the brain that no individual site could detect on its own, and that require larger numbers of subjects than any individual neuroimaging study has currently collected. ENIGMA's first project was a genome-wide association study identifying common variants in the genome associated with hippocampal volume or intracranial volume. Continuing work is exploring genetic associations with subcortical volumes (ENIGMA2) and white matter microstructure (ENIGMA-DTI). Working groups also focus on understanding how schizophrenia, bipolar illness, major depression and attention deficit/hyperactivity disorder (ADHD) affect the brain. We review the current progress of the ENIGMA Consortium, along with challenges and unexpected discoveries made on the way." | GameTime: 7.171416 sec |
+| Button Clicked: Answer1Button | GameTime: 11.37432 sec |
+| Player submitted answer: "Miljömanagement" was WRONG | GameTime: 11.37432 sec |
+| Button Clicked: Answer4Button | GameTime: 17.80647 sec |
+| Player submitted answer: "D-dimer predicts major bleeding, cardiovascular events and all-cause mortality during warfarin treatment" was WRONG | GameTime: 17.80647 sec |
+| Button Clicked: Answer3Button | GameTime: 19.2641 sec |
+| Player submitted answer: "Energy Efficiency in Households" was WRONG | GameTime: 19.2641 sec |
+| Button Clicked: Answer2Button | GameTime: 21.93972 sec |
+| Player submitted answer: "The ENIGMA Consortium" was CORRECT | GameTime: 21.93972 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 21.93972 sec |
+| Game Ended | Total Score: 1624 | GameTime: 29.11398 sec |

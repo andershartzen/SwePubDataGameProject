@@ -1,0 +1,13 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.608975 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.547208 sec |
+| Button Clicked: MainMenu_AboutButton | GameTime: 3.670348 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 4.462881 sec |
+| Button Clicked: MainMenu_Options Button | GameTime: 6.056113 sec |
+| State Change FROM MENU TO OPTIONSMENU | GameTime: 6.056113 sec |
+| Button Clicked: Button_ExitOptions | GameTime: 7.821378 sec |
+| State Change FROM OPTIONSMENU TO MENU | GameTime: 7.821378 sec |
+| Button Clicked: MainMenu_Options Button | GameTime: 9.483471 sec |
+| State Change FROM MENU TO OPTIONSMENU | GameTime: 9.483471 sec |
+| Button Clicked: Button_ExitOptions | GameTime: 13.29057 sec |
+| State Change FROM OPTIONSMENU TO MENU | GameTime: 13.29057 sec |
+| Game Ended | Total Score: 1 | GameTime: 74.82195 sec |

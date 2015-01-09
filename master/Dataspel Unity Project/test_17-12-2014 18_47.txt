@@ -1,0 +1,9 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 1.479397 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 2.3543 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 2.901213 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 2.901213 sec |
+| Button Clicked: AddSearch_Button | GameTime: 8.307538 sec |
+| Button Clicked: BeginGameButton | GameTime: 8.666898 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 8.666898 sec |
+| Search started - Searchterms: freeText = brain | GameTime: 8.666898 sec |
+| Game Ended | Total Score: 1 | GameTime: 54.69127 sec |

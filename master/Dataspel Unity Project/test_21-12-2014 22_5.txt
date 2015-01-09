@@ -1,0 +1,21 @@
+| Button Clicked: StartIDScreen_OKButton | GameTime: 2.014254 sec |
+| Button Clicked: Exit_PlayerIntro_Button | GameTime: 3.170585 sec |
+| Button Clicked: MainMenu_CreatePuzzleButton | GameTime: 3.920541 sec |
+| State Change FROM MENU TO PLAYERCONFIG | GameTime: 3.920541 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 7.248776 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 7.248776 sec |
+| Search started - Searchterms: freeText = game | GameTime: 7.248776 sec |
+| Search Completed, found 1 publications | GameTime: 307.9014 sec |
+| Message shown to player: The operation has timed out. | GameTime: 307.9014 sec |
+| State Change FROM LOADING_PUBLICATIONS TO PLAYERCONFIG | GameTime: 307.9014 sec |
+| Button Clicked: MsgOKButton | GameTime: 328.3694 sec |
+| Button Clicked: CancelSearchButton | GameTime: 329.3537 sec |
+| State Change FROM PLAYERCONFIG TO PLAYERCONFIG | GameTime: 329.3537 sec |
+| Button Clicked: BeginGameButton_SuperSimpleSearch | GameTime: 330.8693 sec |
+| State Change FROM PLAYERCONFIG TO LOADING_PUBLICATIONS | GameTime: 330.8693 sec |
+| Search started - Searchterms: freeText = game | GameTime: 330.8693 sec |
+| Search Completed, found 200 publications | GameTime: 332.4945 sec |
+| State Change FROM LOADING_PUBLICATIONS TO GAMEPLAY | GameTime: 332.4945 sec |
+| New Puzzle Opened - Titles: 0= "Management of Creativity in Video Game Development" 1= "Learning to play the seminar game: Some students’ initial encounter with a basic working form in higher education" 2= "A Teachable-Agent Arithmetic Game’s effects on Mathematics Understanding, Attitude and Self-Efficacy" 3= "A game for requirements formulation for a distributed gaming and simulation environment"  - Solution = "Learning to play the seminar game: Some students’ initial encounter with a basic working form in higher education" - Abstract: "This paper investigates students' initial encounters with the seminar as a working form in higher education. The main interest was to explore how the communication pattern, the aim of the seminar and meaning were negotiated. The results originate from an ethnographic field study where we followed a group of students in a Masters program in Social Science during their first five weeks. Data were analyzed from a socio-cultural perspective and the concepts of participation and reification. We found that there was an implicit negotiation of the communication pattern, what to discuss and the function of the seminar. In these processes, the students and teacher participated in the negotiation of meaning. Different objects were created through a reification process, around which the negotiation of meaning took place." | GameTime: 332.4945 sec |
+| State Change FROM GAMEPLAY TO PUZZLE_COMPLETED | GameTime: 362.5025 sec |
+| Game Ended | Total Score: 1 | GameTime: 464.4558 sec |
